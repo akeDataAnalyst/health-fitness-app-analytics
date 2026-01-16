@@ -1,0 +1,55 @@
+About us
+Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/
+
+About the role
+Ruby Labs is hiring a Junior Data Analyst to join our fast-paced and rapidly growing team. In this role, you will be working to create new reports and improve current reports, and working to ensure that we have safe, correct data to make decisions.
+
+Work with a variety of products and clients, building their future data environment, and play a critical role in leveraging data to drive informed decision-making
+
+Key Responsibilities
+Partner with Product Owners and Data Teams.
+
+Control and monitor Marketing and Product metrics in Mixpanel and Tableau.
+
+Create new reports and collaborate with product owners and developers to maintain high-quality event tracking by aligning on event naming and mapping standards for new features and A/B tests.
+
+Identify trends, patterns, and anomalies in data to support business insights.
+
+Use SQL to get and analyse data for reports and team requests.
+
+Collaborate closely with the data team to ensure consistency in reporting and data quality across the organisation.
+
+Qualifications
+Degree in an analytical field such as Math, Data Science or Economics.
+
+At least 1 year of work experience as a Data Analyst.
+
+Strong analytical and problem-solving skills, with the ability to identify trends, patterns, and insights in large datasets.
+
+Excellent verbal communication.
+
+Ability to think strategically and make data-driven decisions that align with the organisation’s goals.
+
+Experience in Product Analytics.
+
+Experience with Mixpanel, GA4, Amplitude or similar.
+
+Basic SQL.
+
+Experience with popular BI tools such as Tableau, Looker, or similar.
+
+Nice to have
+Strong spoken and written English.
+
+Experience in Marketing Analytics.
+
+Experience with Python, R.
+
+Experience with GCP, BigQuery.
+
+Experience with Google Ads, Facebook Ads etc.
+
+Experience with orchestration frameworks such as Airflow.
+
+Experience with git and code review process.
+
